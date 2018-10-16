@@ -4,6 +4,7 @@
 
 .carousel-banner {
     height: 80vh;
+    margin-top: 56px;
 }
 
 .carousel-banner img {
@@ -19,10 +20,23 @@ h1.title {
     margin: 25px 0;
 }
 
+.row-margin {
+    margin: 15px 0px;
+}
+
 .col-lg-4 {
     margin: 15px 0;
 }
 
 .card-img-top {
     object-fit: cover;
+}
+
+.modern-business {
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+}
+
+.row-cta {
+    align-items: center;
 }
